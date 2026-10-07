@@ -2,6 +2,8 @@
 
 Backend del sistema de citas médicas para la Clínica MediReserva. Construido con FastAPI + PostgreSQL, con autenticación JWT, autorización por rol y autorización a nivel de dato.
 
+**ver el archivo "pruebas_postman.docx" **
+
 ---
 
 ## Stack
